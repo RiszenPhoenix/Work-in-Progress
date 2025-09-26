@@ -1,3 +1,11 @@
+'''
+I want this file organized into the following sections: 1. Abstract 2. The Steam Games Dataset 3. Exploratory Analysis / Visualization 4. Data Cleaning and Rescaling 5. Training / Test Split 6. Model Building 7. Model Testing 8. Results 7. Conclusions / Lessons Learned use markdown code cells and text as necessary. do not delete anything. just organize it into a proper working order by section
+
+
+
+''''
+
+
 # -*- coding: utf-8 -*-
 """cs304_project_Ethan_Christopher_old_messy_version.ipynb
 
